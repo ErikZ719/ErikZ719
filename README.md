@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🔭 I’m currently a full-time researcher at the Xiamen University of Technology, working in the Fujian Key Laboratory of Pattern Recognition and Image Understanding.
-👯 I am also a visiting student at Shanghai Jiao Tong University.
-🌱 My research interests primarily focus on Explainable AI and LMMs.
-📫 Email: qiyanzhao618@gmail.com; zqyqq@xmut.edu.cn
-🤔 I am currently looking for PhD opportunities. If you are interested, please feel free to reach out.
+- 🔭 I’m currently a full-time researcher at the Xiamen University of Technology, working in the Fujian Key Laboratory of Pattern Recognition and Image Understanding.
+- 👯 I am also a visiting student at Shanghai Jiao Tong University.
+- 🌱 My research interests primarily focus on Explainable AI and LMMs.
+- 📫 Email: qiyanzhao618@gmail.com; zqyqq@xmut.edu.cn
+- 🤔 I am currently looking for PhD opportunities. If you are interested, please feel free to reach out.
 
 
 <!--
