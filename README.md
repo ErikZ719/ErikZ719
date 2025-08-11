@@ -3,7 +3,7 @@
 - 🔭 I’m currently a research assistant at Fujian Key Laboratory of Pattern Recognition and Image Understanding, and also a visiting student at Shanghai Jiao Tong University.
 - 🌱 My research interests primarily focus on Explainable AI and LMMs.
 - 📫 Email: qiyanzhao618@gmail.com; zqyqq@xmut.edu.cn
-- 🤔 I am currently looking for PhD opportunities. If you are interested, please feel free to reach out.
+
 
 
 <!--
