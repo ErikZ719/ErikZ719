@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I am currently a PhD student at the Institute of Automation, Chinese Academy of Sciences.
-- 🌱 My research interests primarily focus on Explainable AI and reasoning.
+- 🌱 My research interests primarily focus on Explainable AI and Reasoning.
 
 
 
