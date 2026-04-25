@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I am currently a PhD student at the Institute of Automation, Chinese Academy of Sciences.
-- 🌱 My research interests primarily focus on Explainable AI and Reasoning.
+- 🌱 My research interests primarily focus on Self-evolving Embodied Agent, Explainable AI and Multimodal Reasoning.
+- 💬 Email: qiyanzhao618@gmail.com; 微信: Tjudw0709.
+- 😄 homepage: [erikz719.github.io/](https://erikz719.github.io/); Google sclolar: [Google scholar](https://scholar.google.co.jp/citations?user=lI7U-X8AAAAJ&hl=zh-CN)
 
 
 
